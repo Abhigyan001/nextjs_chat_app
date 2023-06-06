@@ -3,7 +3,7 @@ Next.js Chat App is a web app that provides a chat experience. The website is ma
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://nextjs-chat-application.netlify.app/)
 
 ## Build-With
 
