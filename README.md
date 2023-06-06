@@ -1,31 +1,45 @@
-# NextJS Chat Tutorial
+# Next.js Chat App
+Next.js Chat App is a web app that provides a chat experience. The website is made with React Context, Routing, Chat Engine and NextJS.
 
-<img 
-    src="https://raw.githubusercontent.com/alamorre/nextjs-chat-app/main/assets/nextjs-chat-tutorial.png" 
-    width="75%" 
-    height="100%"
-/>
+## Live Demo
 
-This project is powered by [Chat Engine](https://chatengine.io).
+[Live Demo Link]()
 
-## Tutorial Setup
+## Build-With
 
-Download Code > Zip from [the main branch](https://github.com/alamorre/nextjs-chat-tutorial/).
+- Next.js
+- Chat Engine
+- VScode
 
-Follow the Video Tutorial [right here](https://chatengine.io).
+## Getting Started
 
-Push to your own repo and link to [vercel](https://vercel.io).
+### Prerequisites
 
-## Setup Finished Project
+To get this project up and running locally, you must already have npm or yarn installed on your computer
 
-For the finished version of this project, go to [the last branch](https://github.com/alamorre/nextjs-chat-tutorial/tree/3-chats).
+**To get this project set up on your local machine, follow these simple steps:**
 
-Go to [Chat Engine](https://chatengine.io) and create a account and project.
+1. Open Terminal.
+2. Navigate to your desired location to download the contents of this repository.
+3. Copy and paste the following code into the Terminal: git clone https://github.com/Abhigyan001/nextjs_chat_app.git
+4. Run ```cd nextjs_chat_app```.
+5. Run ```yarn``` to get the necesary gems.
+7. Run `yarn dev`
+8. Go to [Chat Engine](https://chatengine.io) and create a account and project.
+9. Find the Private Key and Project ID and then replace the values with your own API keys.
 
-Find the Private Key `c2f82e63-9978-4c5c-9c17-8b0dec845dc6` and Project ID `b60a6d8b-d377-477e-af88-e47de35b3e89` then replace the values with your API keys.
+## Author Details::
 
-The project has been deleted so those keys won't work anymore.
+👤 ABHIGYAN Mahanta
 
-### `yarn dev`
+- Github: [@Abhigyan001](https://github.com/Abhigyan001)
+- Twitter: [@abhigyan_001](https://twitter.com/abhigyan_001)
+- LinkedIn: [Abhigyan](https://www.linkedin.com/in/abhigyanmahanta/)
 
-Install everything with `yarn` then run `yarn dev` to get up and running.
+## Show your support
+
+Give ⭐ Star — it helps!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
