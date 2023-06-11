@@ -1,5 +1,5 @@
 # Next.js Chat App
-Next.js Chat App is a web app that provides a chat experience. The website is made with React Context, Routing, Chat Engine and NextJS.
+Next.js Chat App is a web app that provides a chat experience. The website is made with React Context, Routing, Chat Engine and NextJS. This project is an inspiration from a tutorial by Adam La on the same field.
 
 ## Live Demo
 
